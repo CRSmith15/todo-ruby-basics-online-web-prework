@@ -1,7 +1,7 @@
 def division(num1, num2)
+  num1 = 60
+  num2 = 10
   num1 / num2
-  num1 = 12
-  num2 = 2
 
 end
 
