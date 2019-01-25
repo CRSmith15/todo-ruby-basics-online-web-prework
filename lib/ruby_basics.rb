@@ -22,7 +22,7 @@ end
 
 def return_a_value
   word = "Nice"
-  
+
 
 end
 
