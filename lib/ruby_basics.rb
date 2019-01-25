@@ -20,10 +20,8 @@ def greeting(greeting, name)
 
 end
 
-def return_a_value(word)
-  word = "Nice"
-  return "#{word}"
-
+def return_a_value(word="Nice")
+  
 end
 
 def last_evaluated_value
